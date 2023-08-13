@@ -19,6 +19,7 @@
 * [Quizzler](https://github.com/codewith-usama/Quizzler-Flutter)
 * [Xylophone](https://github.com/codewith-usama/Xylophone-Flutter)
 * [Magic Ball](https://github.com/codewith-usama/Magic-Ball-Flutter)
+* [SignUp App](https://github.com/codewith-usama/SignUp-App-Flutter)
 
 
 
