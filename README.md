@@ -1,6 +1,7 @@
 # Flutter-Projects
 
 * [Daily PLanner](https://github.com/codewith-usama/Daily-Planner-Flutter)
+* [Coffee Shop] (https://github.com/codewith-usama/Coffee-Shop-Flutter)
 * [Music Player](https://github.com/codewith-usama/Music-PLayer-Flutter)
 * [Instagram Clone](https://github.com/codewith-usama/Instagram-Clone)
 * [Flutter Animation](https://github.com/codewith-usama/Flutter-Animation)
