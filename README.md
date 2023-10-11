@@ -8,6 +8,7 @@
 * [Bitcoin-Ticker](https://github.com/codewith-usama/Bitcoin-Ticker-APIs-based-Cryptocurrency-Application)
 * [ToDo-App](https://github.com/codewith-usama/ToDo-App-Flutter)
 * [APK-Reversing](https://github.com/codewith-usama/APK-Reversing-Flutter)
+* [Sushi Restaurant](https://github.com/codewith-usama/Sushi-Restaurant-Flutter)
 * [Media App](https://github.com/codewith-usama/Media-Flutter)
 * [Pic Sharing App](https://github.com/codewith-usama/Pic-Sharing-App-Flutter)
 * [BMI Calculator](https://github.com/codewith-usama/BMI-Calculate-Flutter)
