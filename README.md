@@ -1,5 +1,6 @@
 # Flutter-Projects
 
+* [eMart Flutter](https://github.com/codewith-usama/eMart-Flutter)
 * [Daily PLanner](https://github.com/codewith-usama/Daily-Planner-Flutter)
 * [Coffee Shop](https://github.com/codewith-usama/Coffee-Shop-Flutter)
 * [Music Player](https://github.com/codewith-usama/Music-PLayer-Flutter)
